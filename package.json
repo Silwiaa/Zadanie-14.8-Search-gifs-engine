@@ -1,32 +1,23 @@
 {
-  "name": "Task-4",
+  "name": "zadanie14_8",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "https://silwiaa.github.io/Zadanie-14.8-Search-gifs-engine/.",
+  "main": "script.js",
   "scripts": {
     "start": "http-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Silwiaa/Git-Task-4.git"
+    "url": "git+https://github.com/Silwiaa/Zadanie-14.8-Search-gifs-engine.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Silwiaa/Git-Task-4/issues"
+    "url": "https://github.com/Silwiaa/Zadanie-14.8-Search-gifs-engine/issues"
   },
-  "homepage": "https://github.com/Silwiaa/Git-Task-4#readme",
+  "homepage": "https://github.com/Silwiaa/Zadanie-14.8-Search-gifs-engine#readme",
   "devDependencies": {
-    "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.23.6",
-    "globstar": "^1.0.0",
-    "http-server": "^0.11.1",
-    "jshint": "^2.9.5",
-    "node-sass": "^4.8.3",
-    "npm-run-all": "^4.1.2",
-    "nu-html-checker": "^0.1.0",
-    "onchange": "^3.3.0",
-    "rimraf": "^2.6.2"
-  },
-  "description": ""
+    "http-server": "^0.11.1"
+  }
 }
