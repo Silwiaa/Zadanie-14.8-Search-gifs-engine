@@ -30,7 +30,7 @@ Search = React.createClass({
             maxWidth: '350px'
         };
 
-        return {
+        return (
             <input
                  type='text'
                  onChange={this.handleChange}
@@ -39,7 +39,7 @@ Search = React.createClass({
                  style={styles}
                  value={this.state.searchingText}
             />
-        }
+        )
     }
 });
 
